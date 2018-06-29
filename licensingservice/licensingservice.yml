@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT 123"
+example.property: "I AM IN THE DEFAU!!!!!"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
